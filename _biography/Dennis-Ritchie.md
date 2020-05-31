@@ -18,6 +18,6 @@ gallery:
     caption: "To Unix είναι ενα λειτουργικό σύστημα Η/Υ το οποίο αναπτύχθηκε τις δεκαετίες του 1960 και 1970 απο ομάδα εργαζομένων στο Bell Labs της εταιρίας ΑΤ&Τ."
 ---
 
-{% include_relative bio-ritchie.md %}
+{% include_relative bio-ritchie %}
 
 {% include slides.html caption="Εικόνες για την βιογραφία του Dennis MacAlistair Ritchie" %}
