@@ -5,7 +5,6 @@ image_url: /images/dennis.jpg
 caption: "Ο Dennis MacAlistair Ritchie είναι ο δημιουργός της προγραμματιστικής γλώσσας C και μαζί με τον συνάδελφό του Ken Thompson του λειτουργικού συστήματος Unix."
 categories:
   - biography
-  - definition
 tags:
   - Dennis MacAlistair Ritchie
   - Creator of C language
