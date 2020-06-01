@@ -11,7 +11,7 @@ tags:
   - Creator of Unix operating system
   
 gallery:
-  - image_url: /images/dennis1.png
+  - image_url: /images/dennis1.jpg
     caption: "Η C γλώσσα προγραμματισμού είναι μια διαδικατστική γλώσσα που αναπτύχθηκε μεταξύ του 1969 και 1973 απο τον Ντένις Ρίτσι για να χρησιμοποιηθεί για την ανάπτυξη λειτουργικού συστήματος Unix."
   - image_url: /images/dennis2.jpg
     caption: "To Unix είναι ενα λειτουργικό σύστημα Η/Υ το οποίο αναπτύχθηκε τις δεκαετίες του 1960 και 1970 απο ομάδα εργαζομένων στο Bell Labs της εταιρίας ΑΤ&Τ."
