@@ -16,4 +16,4 @@ gallery:
 
 {% include_relative bio-sutherland.md %}
 
-{% include slides.html caption="Εικόνες για την βιογραφία του Αλαν Κεη" %}
+{% include slides.html caption="Εικόνες για την βιογραφία του William Robert Sutherland" %}
