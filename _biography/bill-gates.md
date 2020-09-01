@@ -2,7 +2,7 @@
 author: p17anto
 title: "William Henry III (Bill) Gates"
 image_url: /images/billgates.jpg
-caption: "William Henry (Bill) Gates III και ο Paul Gardner Allen συνίδρυσαν την εταιρεία Microsoft, η οποία εξελίχτηκε στην μεγαλύτερη εταιρεία λογισμικού για ηλεκτρονικούς υπολογιστές παγκοσμίως."
+caption: "William Henry (Bill) Gates III και ο Paul Gardner Allen συνίδρυσαν την εταιρεία Microsoft, η οποία εξελίχτηκε στην μεγαλύτερη εταιρεία λογισμικού για ηλεκτρονικούς"
 categories:
   - biography
   - definition
