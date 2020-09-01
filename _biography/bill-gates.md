@@ -17,6 +17,7 @@ gallery:
   - image_url: /images/billgates2.jpg
   - image_url: /images/billgates3.jpg
   - image_url: /images/smalltalk.jpg
+  
   ---
 
 {% include_relative bio-gates.md %}
